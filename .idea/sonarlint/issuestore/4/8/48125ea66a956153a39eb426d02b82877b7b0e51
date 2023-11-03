@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ«ãÌ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(…ê¥Ãúÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ñçêýùÿÿÿÿ
+\
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(Œ²ç‘øÿÿÿÿ
+5
+java:S4926"Remove this "serialVersionUID".(±Š¬È

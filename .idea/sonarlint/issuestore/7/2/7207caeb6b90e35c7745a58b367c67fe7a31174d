@@ -1,0 +1,61 @@
+
+r	java:S109"VAssign this magic number 2500d to a well-named constant, and use the constant instead.(Åœ™º8ù´Ü·1
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(¡ÉõÛøÿÿÿÿ8ù´Ü·1
+w	java:S109"VAssign this magic number 2500d to a well-named constant, and use the constant instead.(¡ÉõÛøÿÿÿÿ8ù´Ü·1
+m	java:S109"RAssign this magic number 3 to a well-named constant, and use the constant instead.(ÀãËF8ù´Ü·1
+q	java:S109"VAssign this magic number 2500d to a well-named constant, and use the constant instead.(ÀãËF8ù´Ü·1
+n	java:S109"RAssign this magic number 4 to a well-named constant, and use the constant instead.(Ëó€è8ù´Ü·1
+r	java:S109"VAssign this magic number 2500d to a well-named constant, and use the constant instead.(Ëó€è8ù´Ü·1
+n	java:S109"RAssign this magic number 5 to a well-named constant, and use the constant instead.(³å·•8ù´Ü·1
+r	java:S109"VAssign this magic number 2500d to a well-named constant, and use the constant instead.(³å·•8ù´Ü·1
+n	java:S109"RAssign this magic number 6 to a well-named constant, and use the constant instead.(îÛò®8ù´Ü·1
+r	java:S109"VAssign this magic number 2500d to a well-named constant, and use the constant instead.(îÛò®8ù´Ü·1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(å¾¶Ç8ú´Ü·1
+k
+java:S1192"NDefine a constant instead of duplicating this literal "1234567890876" 6 times.(Åœ™º8û´Ü·1
+=
+java:S2384E" Return a copy of "employeeList".(óø¤Ç8û´Ü·1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åœ™º8û´Ü·1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÉõÛøÿÿÿÿ8û´Ü·1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀãËF8û´Ü·1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëó€è8û´Ü·1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³å·•8ü´Ü·1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÛò®8ü´Ü·1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¦ºÒûÿÿÿÿ8ı´Ü·1
+^
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(¼š‚8ı´Ü·1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(²“Ğ•ùÿÿÿÿ8ı´Ü·1
+c
+java:S1106)"AMove this left curly brace to the beginning of next line of code.(Ÿ±„Øøÿÿÿÿ8ı´Ü·1
+c
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(àîù¾ûÿÿÿÿ8ı´Ü·1
+^
+java:S11067"AMove this left curly brace to the beginning of next line of code.(²§°Ä8ı´Ü·1
+c
+java:S11069"AMove this left curly brace to the beginning of next line of code.(Å·´—ÿÿÿÿÿ8ı´Ü·1
+^
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(ªØáí8ı´Ü·1
+c
+java:S1106D"AMove this left curly brace to the beginning of next line of code.(’‹ÿüÿÿÿÿ8ı´Ü·1
+c
+java:S1106I"AMove this left curly brace to the beginning of next line of code.(×²‡ÿÿÿÿÿ8ı´Ü·1
+^
+java:S1106O"AMove this left curly brace to the beginning of next line of code.(©ÊŒ³8ı´Ü·1
+^
+java:S1106P"AMove this left curly brace to the beginning of next line of code.(¯«ÿç8ı´Ü·1
+c
+java:S1106Q"AMove this left curly brace to the beginning of next line of code.(ÆÄŠµúÿÿÿÿ8ı´Ü·1
+?	java:S818"#Upper-case this literal "d" suffix.(Åœ™º8‰µÜ·1
+D	java:S818"#Upper-case this literal "d" suffix.(¡ÉõÛøÿÿÿÿ8‰µÜ·1
+>	java:S818"#Upper-case this literal "d" suffix.(ÀãËF8ŠµÜ·1
+?	java:S818"#Upper-case this literal "d" suffix.(Ëó€è8ŠµÜ·1
+?	java:S818"#Upper-case this literal "d" suffix.(³å·•8ŠµÜ·1
+?	java:S818"#Upper-case this literal "d" suffix.(îÛò®8ŠµÜ·1
+0	java:S121<"Missing curly brace.(ÆãÛÓ8ŒµÜ·1
+H
+java:S1168K"+Return an empty collection instead of null.(¥¹ï8µÜ·1
+T
+java:S1135J"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8µÜ·1

@@ -1,0 +1,71 @@
+
+o
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÍÄÄ
+t
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ»Ü‹úÿÿÿÿ
+;
+java:S1166&"%Either log or rethrow this exception.(ï­£Ä
+;
+java:S1166<"%Either log or rethrow this exception.(¼ïý˜
+P
+java:S11418"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¦ºÒûÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(úŸ‰
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ê¡ÿØýÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ÿ±„Øøÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(àîù¾ûÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+W
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(ï­£Ä
+W
+java:S1106."AMove this left curly brace to the beginning of next line of code.(éúÎ©
+W
+java:S11062"AMove this left curly brace to the beginning of next line of code.(Ø›Ê‘
+\
+java:S11064"AMove this left curly brace to the beginning of next line of code.(Õ²øÿÿÿÿ
+\
+java:S11067"AMove this left curly brace to the beginning of next line of code.(Ç½Œâýÿÿÿÿ
+\
+java:S11068"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+W
+java:S1106<"AMove this left curly brace to the beginning of next line of code.(¼ïý˜
+W
+java:S1106@"AMove this left curly brace to the beginning of next line of code.(ï­£Ä
+\
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(’‹ÿüÿÿÿÿ
+\
+java:S1106L"AMove this left curly brace to the beginning of next line of code.(×²Ž‡ÿÿÿÿÿ
+W
+java:S1106W"AMove this left curly brace to the beginning of next line of code.(©ÊŒ³
+W
+java:S1106X"AMove this left curly brace to the beginning of next line of code.(¯«ÿç
+\
+java:S1106Y"AMove this left curly brace to the beginning of next line of code.(ÆÄŠµúÿÿÿÿ
+C
+java:S2208".Explicitly import the specific classes needed.(¬›ãD
+<
+java:S1170"!Make this final field static too.(Éý®Çùÿÿÿÿ
+H
+java:S1108&"2Move this "catch" keyword to a new dedicated line.(ï­£Ä
+R
+java:S1943 "<Remove this use of constructor "FileWriter(String,boolean)".(Žù»²
+V
+java:S11173"@Rename "employeeList" which hides the field declared at line 20.(ÍÍÄÄ
+H
+java:S1108@"2Move this "catch" keyword to a new dedicated line.(ï­£Ä
+<
+java:S29594"!Remove this extraneous semicolon.(Õ²øÿÿÿÿ
+O
+java:S19434"4Remove this use of constructor "FileReader(String)".(Õ²øÿÿÿÿ
+H
+java:S1108<"2Move this "catch" keyword to a new dedicated line.(¼ïý˜
+Q	java:S125;"<This block of commented-out lines of code should be removed.(ÏËÓž
+E	java:S106="+Replace this use of System.err by a logger.(ÕÄš€ûÿÿÿÿ
+@	java:S106A"+Replace this use of System.err by a logger.(ÿÉ›º
+V	java:S125P"<This block of commented-out lines of code should be removed.(¹¶»àüÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(¹¶»àüÿÿÿÿ

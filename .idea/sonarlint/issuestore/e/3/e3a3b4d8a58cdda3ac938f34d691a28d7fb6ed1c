@@ -1,0 +1,12 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äˆÁ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(·¶øÿÿÿÿ
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ä¥U
+@	java:S106"+Replace this use of System.out by a logger.(²£‰¤
+E	java:S106"+Replace this use of System.out by a logger.(÷€€Œúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(²¢Úİûÿÿÿÿ
+E	java:S106	"+Replace this use of System.out by a logger.(ëÜÒôøÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(õ…ââüÿÿÿÿ

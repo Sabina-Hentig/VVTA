@@ -1,0 +1,58 @@
+
+o	java:S109"SAssign this magic number 13 to a well-named constant, and use the constant instead.(î±¨•8Ğ¡ëï´1
+s	java:S109 "RAssign this magic number 2 to a well-named constant, and use the constant instead.(Ï—‘©şÿÿÿÿ8Ğ¡ëï´1
+s	java:S109$"RAssign this magic number 2 to a well-named constant, and use the constant instead.(­€×…úÿÿÿÿ8Ğ¡ëï´1
+C
+java:S2325"'Make "isSalaryValid" a "static" method.(‹²ß8Ô¡ëï´1
+K
+java:S2325")Make "isFunctionValid" a "static" method.(ÉÄ†Ÿûÿÿÿÿ8Ò£¶·1
+F
+java:S2325"$Make "isCnpValid" a "static" method.(âÆè£ùÿÿÿÿ8Ô¡ëï´1
+K
+java:S2325")Make "isLastNameValid" a "static" method.(şš– ıÿÿÿÿ8Ô¡ëï´1
+F
+java:S2325#"*Make "isFirstNameValid" a "static" method.(ğÉâE8Ô¡ëï´1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌŸ¡É8Õ¡ëï´1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÓáË·8Õ¡ëï´1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(õÈŠ8Õ¡ëï´1
+c
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(ÂÀßèøÿÿÿÿ8Õ¡ëï´1
+]
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‹²ß8Õ¡ëï´1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÉÄ†Ÿûÿÿÿÿ8Õ¡ëï´1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(âÆè£ùÿÿÿÿ8Ö¡ëï´1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(şš– ıÿÿÿÿ8Ö¡ëï´1
+]
+java:S1106#"AMove this left curly brace to the beginning of next line of code.(ğÉâE8Ö¡ëï´1
+O
+java:S1135"2Complete the task associated to this TODO comment.(õÈŠ8æ¡ëï´1
+d
+java:S4551"BUse "==" to perform this enum comparison instead of using "equals"(½¸ÀÓıÿÿÿÿ8é¡ëï´1
+d
+java:S4551"BUse "==" to perform this enum comparison instead of using "equals"(Í·ŒÒøÿÿÿÿ8ê¡ëï´1
+d
+java:S4551"BUse "==" to perform this enum comparison instead of using "equals"(“Î¢èıÿÿÿÿ8ê¡ëï´1
+_
+java:S4551"BUse "==" to perform this enum comparison instead of using "equals"(‡şÑü8ë¡ëï´1
+P
+java:S4248"3Refactor this code to use a "static final" Pattern.(î±¨•8í¡ëï´1
+_
+java:S5867"BReplace this character range with a Unicode-aware character class.(î±¨•8í¡ëï´1
+U
+java:S4248 "3Refactor this code to use a "static final" Pattern.(Ï—‘©şÿÿÿÿ8ï¡ëï´1
+f
+java:S5867 "DReplace these character ranges with Unicode-aware character classes.(Ï—‘©şÿÿÿÿ8ï¡ëï´1
+U
+java:S4248$"3Refactor this code to use a "static final" Pattern.(­€×…úÿÿÿÿ8ñ¡ëï´1
+f
+java:S5867$"DReplace these character ranges with Unicode-aware character classes.(­€×…úÿÿÿÿ8ñ¡ëï´1
+N
+java:S1144"2Remove this unused private "isSalaryValid" method.(‹²ß8ò¡ëï´1
+V
+java:S1144"4Remove this unused private "isFunctionValid" method.(ÉÄ†Ÿûÿÿÿÿ8ò¡ëï´1

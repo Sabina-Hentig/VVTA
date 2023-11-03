@@ -1,0 +1,80 @@
+
+a
+java:S11053"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ƒğ•·1
+a
+java:S1105P"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8„ğ•·1
+a
+java:S1105T"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8„ğ•·1
+a
+java:S1105X"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8„ğ•·1
+a
+java:S1105\"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8„ğ•·1
+s	java:S109)"RAssign this magic number 2 to a well-named constant, and use the constant instead.(úâúÿÿÿÿ8„ğ•·1
+s	java:S1091"RAssign this magic number 3 to a well-named constant, and use the constant instead.(‰ÆÄÎşÿÿÿÿ8„ğ•·1
+B
+java:S1166"%Either log or rethrow this exception.(”ı¾8…ğ•·1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úû“Ùûÿÿÿÿ8‡ğ•·1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‰æ£Ôûÿÿÿÿ8‰ğ•·1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘8‰ğ•·1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(˜ïˆÿÿÿÿÿ8‰ğ•·1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8‰ğ•·1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(”ı¾8‰ğ•·1
+c
+java:S1106#"AMove this left curly brace to the beginning of next line of code.(¸ìù«üÿÿÿÿ8‰ğ•·1
+c
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(«èµíúÿÿÿÿ8‰ğ•·1
+^
+java:S1106N"AMove this left curly brace to the beginning of next line of code.(í¨‚°8‰ğ•·1
+]	java:S125"<This block of commented-out lines of code should be removed.(ù–íüÿÿÿÿ8 ğ•·1
+W	java:S125"<This block of commented-out lines of code should be removed.(…¾ü28¢ğ•·1
+X
+java:S1943"6Remove this use of constructor "Scanner(InputStream)".(À’·êøÿÿÿÿ8¨ğ•·1
+Q
+java:S2221"4Catch a list of specific exception subtypes instead.(”ı¾8©ğ•·1
+O
+java:S1108"2Move this "catch" keyword to a new dedicated line.(”ı¾8©ğ•·1
+L	java:S106 "+Replace this use of System.out by a logger.(”²Ğ„ÿÿÿÿÿ8ªğ•·1
+‹
+java:S1151)"iReduce this switch case number of lines from 7 to at most 5, for example by extracting code into methods.(úâúÿÿÿÿ8ªğ•·1
+G	java:S106'"+Replace this use of System.out by a logger.(«ÇÔ˜8«ğ•·1
+L	java:S106*"+Replace this use of System.out by a logger.(ï§²àûÿÿÿÿ8«ğ•·1
+G	java:S106-"+Replace this use of System.out by a logger.(‘›´š8«ğ•·1
+G	java:S1064"+Replace this use of System.out by a logger.(¼’„¿8¬ğ•·1
+L	java:S1068"+Replace this use of System.out by a logger.(”²Ğ„ÿÿÿÿÿ8¬ğ•·1
+G	java:S106?"+Replace this use of System.out by a logger.(ï×Å8®ğ•·1
+G	java:S106A"+Replace this use of System.out by a logger.(Ù¨¢”8¯ğ•·1
+G	java:S106C"+Replace this use of System.out by a logger.(°ù­“8¯ğ•·1
+G	java:S106E"+Replace this use of System.out by a logger.(¦ØÿÕ8¯ğ•·1
+L	java:S106G"+Replace this use of System.out by a logger.(ÿÉË‘ûÿÿÿÿ8°ğ•·1
+L	java:S106I"+Replace this use of System.out by a logger.(Ëù·Üıÿÿÿÿ8°ğ•·1
+…
+java:S1157O"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(˜¸™çùÿÿÿÿ8²ğ•·1
+p
+java:S1132O"NMove the "ASISTENT" string literal on the left side of this string comparison.(˜¸™çùÿÿÿÿ8²ğ•·1
+X
+java:S1449O"6Define the locale to be used in this String operation.(˜¸™çùÿÿÿÿ8²ğ•·1
+€
+java:S1157S"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ëá¿õ8²ğ•·1
+k
+java:S1132S"NMove the "LECTURER" string literal on the left side of this string comparison.(Ëá¿õ8³ğ•·1
+S
+java:S1449S"6Define the locale to be used in this String operation.(Ëá¿õ8³ğ•·1
+…
+java:S1157W"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(´Ö„¦şÿÿÿÿ8³ğ•·1
+o
+java:S1132W"MMove the "TEACHER" string literal on the left side of this string comparison.(´Ö„¦şÿÿÿÿ8³ğ•·1
+X
+java:S1449W"6Define the locale to be used in this String operation.(´Ö„¦şÿÿÿÿ8³ğ•·1
+€
+java:S1157["cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(øğ®ğ8³ğ•·1
+o
+java:S1132["RMove the "CONFERENTIAR" string literal on the left side of this string comparison.(øğ®ğ8³ğ•·1
+S
+java:S1449["6Define the locale to be used in this String operation.(øğ®ğ8´ğ•·1
+Y
+java:S1142N"<This method has 5 returns, which is more than the 3 allowed.(í¨‚°8´ğ•·1

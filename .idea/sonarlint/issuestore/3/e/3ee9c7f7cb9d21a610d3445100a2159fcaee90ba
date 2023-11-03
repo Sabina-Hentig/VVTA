@@ -1,0 +1,11 @@
+
+g	java:S109	"RAssign this magic number 7 to a well-named constant, and use the constant instead.(—ñÑ
+g	java:S109
+"RAssign this magic number 7 to a well-named constant, and use the constant instead.(ÿ¢¸
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßïœÕÿÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(õÀŠÆûÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(äêÍ
+:
+java:S2063"Make this class "Serializable".(õÀŠÆûÿÿÿÿ

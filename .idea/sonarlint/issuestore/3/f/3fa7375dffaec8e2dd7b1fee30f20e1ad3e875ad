@@ -1,0 +1,97 @@
+
+t	java:S109"RAssign this magic number 6 to a well-named constant, and use the constant instead.(¸şÔåşÿÿÿÿ8Æø²·1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßïœÕÿÿÿÿÿ8±¼·1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(–™ˆ¯üÿÿÿÿ8Òø²·1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‚Äœäúÿÿÿÿ8Òø²·1
+^
+java:S1106""AMove this left curly brace to the beginning of next line of code.(º©ëŠ8Òø²·1
+c
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(»ˆ»¶ùÿÿÿÿ8Òø²·1
+]
+java:S1106/"AMove this left curly brace to the beginning of next line of code.(’¹¾
+8Òø²·1
+^
+java:S11063"AMove this left curly brace to the beginning of next line of code.(â„ô8Òø²·1
+^
+java:S11067"AMove this left curly brace to the beginning of next line of code.(«Æë8Òø²·1
+c
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(“–²ùÿÿÿÿ8Òø²·1
+^
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(ƒßù8Òø²·1
+^
+java:S1106C"AMove this left curly brace to the beginning of next line of code.(ğÈíƒ8Òø²·1
+]
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(éÏÚ8Òø²·1
+c
+java:S1106K"AMove this left curly brace to the beginning of next line of code.(ÉİúÍşÿÿÿÿ8Òø²·1
+c
+java:S1106O"AMove this left curly brace to the beginning of next line of code.(Ÿ¿’®ûÿÿÿÿ8Òø²·1
+c
+java:S1106S"AMove this left curly brace to the beginning of next line of code.(šÙ²Éøÿÿÿÿ8Òø²·1
+^
+java:S1106W"AMove this left curly brace to the beginning of next line of code.(ÃÆø§8Òø²·1
+^
+java:S1106\"AMove this left curly brace to the beginning of next line of code.(Á»›ê8Òø²·1
+c
+java:S1106h"AMove this left curly brace to the beginning of next line of code.(Ÿæüşÿÿÿÿ8Òø²·1
+c
+java:S1106i"AMove this left curly brace to the beginning of next line of code.(‹¨Šÿÿÿÿÿ8Óø²·1
+^
+java:S1106l"AMove this left curly brace to the beginning of next line of code.(¤Åà›8Óø²·1
+^
+java:S1106y"AMove this left curly brace to the beginning of next line of code.(ğÜşŠ8Óø²·1
+^
+java:S1106ˆ"AMove this left curly brace to the beginning of next line of code.(ó½¡8Óø²·1
+d
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¸şÔåşÿÿÿÿ8Óø²·1
+_
+java:S1106"AMove this left curly brace to the beginning of next line of code.(å¥‡8Óø²·1
+d
+java:S1106¢"AMove this left curly brace to the beginning of next line of code.(åÊ¡Çıÿÿÿÿ8Óø²·1
+o
+java:S3008"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¢ÓÎûÿÿÿÿ8ûÇÂ·1
+j
+java:S1845"HRename field "id" to prevent any misunderstanding/clash with field "ID".(ôç¼Óşÿÿÿÿ8ßø²·1
+W	java:S139"6Move this trailing comment on the previous empty line.(™ê©¾úÿÿÿÿ8æø²·1
+W	java:S139"6Move this trailing comment on the previous empty line.(¡’Òïüÿÿÿÿ8èø²·1
+R	java:S139"6Move this trailing comment on the previous empty line.(¡£»8èø²·1
+W	java:S139"6Move this trailing comment on the previous empty line.(õŠÊÎÿÿÿÿÿ8èø²·1
+R	java:S139"6Move this trailing comment on the previous empty line.(âò›ô8èø²·1
+D	java:S818"#Upper-case this literal "d" suffix.(®€â¯úÿÿÿÿ8éø²·1
+B
+java:S2162l"%Compare to "this.getClass()" instead.(¤Åà›8ïø²·1
+i
+java:S1659q"LDeclare "hasSameLastName" and all following declarations on a separate line.(ÇŒ¦„8ïø²·1
+d
+java:S4551s"BUse "==" to perform this enum comparison instead of using "equals"(ì¹ÅÔıÿÿÿÿ8ñø²·1
+_
+java:S1244t"=Equality tests should not be made with floating point values.(áİšøÿÿÿÿ8ñø²·1
+Q
+java:S4248‹"3Refactor this code to use a "static final" Pattern.(ŠÜ§¨8ôø²·1
+S
+java:S6397‹"5Replace this character class by the character itself.(ŠÜ§¨8ôø²·1
+O
+java:S1108"1Move this "else" keyword to a new dedicated line.(å¥‡8õø²·1
+a
+java:S1162">Remove the usage of the checked exception 'EmployeeException'.(°¶÷ıÿÿÿÿ8Ì¸·1
+1	java:S121•"Missing curly brace.(µéÄ½8÷ø²·1
+l
+java:S1132•"NMove the "ASISTENT" string literal on the left side of this string comparison.(µéÄ½8ùø²·1
+6	java:S121—"Missing curly brace.(”î–¸ùÿÿÿÿ8úø²·1
+q
+java:S1132—"NMove the "LECTURER" string literal on the left side of this string comparison.(”î–¸ùÿÿÿÿ8üø²·1
+1	java:S121™"Missing curly brace.(¯â©¶8üø²·1
+k
+java:S1132™"MMove the "TEACHER" string literal on the left side of this string comparison.(¯â©¶8üø²·1
+6	java:S121›"Missing curly brace.(‰Õ©£ùÿÿÿÿ8ıø²·1
+u
+java:S1132›"RMove the "CONFERENTIAR" string literal on the left side of this string comparison.(‰Õ©£ùÿÿÿÿ8ıø²·1
+?
+java:S2153 "Remove the boxing of "line".(é×¦úÿÿÿÿ8şø²·1
+^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ü¥Ãÿÿÿÿÿ8şø²·1
+a
+java:S1162£">Remove the usage of the checked exception 'EmployeeException'.(°¶÷ıÿÿÿÿ8”Ì¸·1
+H
+java:S1068"&Remove this unused "ID" private field.(ˆ¢ÓÎûÿÿÿÿ8ÿø²·1
